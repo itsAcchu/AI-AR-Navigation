@@ -73,8 +73,7 @@ The system consists of four core modules:
    ```
 
 ## Contributors
-- **[Your Name]** - AI/ML Engineer
-- **[Other Contributors]** - Research, Development, Testing
+- **[Acchu]** - AI/ML Engineer
 
 ## License
 This project is licensed under the **MIT License**.
